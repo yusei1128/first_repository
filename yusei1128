@@ -1,0 +1,4 @@
+> cd ~/git-training
+git remote add origin https://github.com/yusei1128/first_repository.git
+git branch -M main
+git push -u origin main
